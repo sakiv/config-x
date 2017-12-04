@@ -1,4 +1,7 @@
+1.28.2 / 2017-12-04
+===================
 
+  * Fixed bad config file.
   * Update docs for JavaScript-formatted config files and link them from the README - markstos
 
 1.28.1 / 2017-11-09
