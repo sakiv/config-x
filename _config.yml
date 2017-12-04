@@ -1,0 +1,8 @@
+title: Node-config
+description: Node.js Application Configuration
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
